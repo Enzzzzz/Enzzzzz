@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=yulbotsite&repo=yulrpg&theme=radical&show_owner=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=enzzzzz&repo=yulbotsite&theme=radical&show_owner=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=enzzzzz&repo=yulrpg&theme=radical&show_owner=true" />

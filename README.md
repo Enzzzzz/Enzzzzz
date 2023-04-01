@@ -25,11 +25,11 @@
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;" href="https://github.com/Enzzzzz/YulbotSite">
+    <a href="https://github.com/Enzzzzz/YulbotSite" align="center" style="padding=0;width=50%;" >
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=enzzzzz&repo=yulbotsite&theme=radical&show_owner=true" />
-    </td>
-    <td align="center" style="padding=0;width=50%;" href="https://github.com/Enzzzzz/YulRPG">
+    </a>
+    <a href="https://github.com/Enzzzzz/YulRPG" align="center" style="padding=0;width=50%;" >
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=enzzzzz&repo=yulrpg&theme=radical&show_owner=true" />
-    </td>
+    </a>
   </tr>
 </table>

@@ -1,4 +1,9 @@
 <div>
+  <a href="https://almirofragosoadvocacia.com.br">
+    <img src="https://img.shields.io/badge/AlmiroFragoso-Website-1345AA" alt="Lawyer Website" />
+  </a>
+</div>
+<div>
   <a href="https://yulbot.vercel.app">
     <img src="https://img.shields.io/badge/YulBot-Website-EC3E85" alt="My Bot Website" />
   </a>

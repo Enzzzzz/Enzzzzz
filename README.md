@@ -1,6 +1,6 @@
 <div>
   <a href="https://maiadev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-000000" alt="Lawyer Website" />
+    <img src="https://img.shields.io/badge/Portfólio-999999" alt="Lawyer Website" />
   </a>
 </div>
 <div>
@@ -16,9 +16,9 @@
 
 # About me
 
-- My name is Enzo Henrique, i'm a Software Engineering student. Im currently in the second year.
+- I'm Enzo Maia, a Front-End Developer specialized in ReactJS and JavaScript.
+- I've completed my degree in Software Engineering and I'm always exploring new technologies to keep improving my skills and build better digital experiences.
 - Always doing something new to learn more and more.
-- Currently focused in Javascript and React JS
 
 <table>
   <tr>

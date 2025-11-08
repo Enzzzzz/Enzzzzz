@@ -1,6 +1,6 @@
 <div>
   <a href="https://maiadev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-999999" alt="Lawyer Website" />
+    <img src="https://img.shields.io/badge/Portfólio-Website-9FE7FC" alt="Lawyer Website" />
   </a>
 </div>
 <div>
